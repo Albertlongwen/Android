@@ -1,2 +1,6 @@
-# Android
-Some Android Application
+##README.md 
+-------------
+#Android
+-------------
+My Android Application
+
