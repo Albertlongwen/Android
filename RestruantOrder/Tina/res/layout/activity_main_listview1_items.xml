@@ -1,0 +1,101 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main_listView1_items_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginLeft="10dp"
+             android:layout_marginRight="10dp"
+             android:layout_marginTop="10dp"
+             android:background="@drawable/buttonstyle"
+             android:orientation="vertical" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp" >
+
+        <TextView
+            android:id="@+id/activity_main_listView1_items_textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/红色" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/activity_main_listView1_items_imageView1"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:scaleType="center"
+            android:src="@drawable/ic_launcher" />
+
+    </LinearLayout>
+
+<TextView
+    android:id="@+id/activity_main_listView1_items_textView2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:text="价格"
+    android:textStyle="italic" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="right"
+        android:padding="2dp" >
+
+        <Button
+            android:id="@+id/activity_main_listView1_items_button1"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/buttonstyle"
+            android:text="分享"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/activity_main_listView1_items_button2"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/buttonstyle"
+            android:text="收藏"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/activity_main_listView1_items_button3"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:background="@drawable/buttonstylered"
+            android:text="点菜"
+            android:textColor="@color/纯白" />
+
+    </LinearLayout>
+
+    
+
+    </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

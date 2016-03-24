@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="titlebar_item1">下单</string>
+    <string name="menu_titlebar_item1">下单</string>
+    <string name="app_name">Tina</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menu_frame">Menu_frame</string>
+    <string name="menu_frame_button1">我的订单</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="activity_menu_menu1">淮扬菜</string>
+    <string name="activity_menu_menu2">茶点</string>
+    <string name="activity_menu_menu3">甜点</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">上拉刷新</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="title_activity_view">返回</string>
+    <string name="activity_view_button1">点菜</string>
+    <string name="title_activity_main">菜单</string>
+    <string name="title_activity_menu">返回</string>
+    <string name="title_activity_star">订餐系统</string>
+    <string name="title_activity_login">用户登录</string>
+    <string name="title_activity_register">注册</string>
+    <string name="title_activity_submit">提交订单</string>
+    <string name="title_activity_order">我的订单</string>
+    <string name="item_dmanager_view1">客户信息：</string>
+    <string name="item_dmanager_view2">联系方式：</string>
+    <string name="item_dmanager_view3">用餐人数：</string>
+    <string name="item_dmanager_view4">就餐地点：</string>
+    <string name="item_dmanager_view5">到店时间：</string>
+    <string name="item_dmanager_view6">共点菜数：</string>
+    <string name="item_dmanager_view7">总计金额：</string>
+    <string name="item_dmanager_view8">特殊要求：</string>
+
+</resources>

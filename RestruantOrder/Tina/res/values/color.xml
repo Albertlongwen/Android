@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="标题按钮背景">#000</color>
+    <color name="标题按钮字体颜色">#666</color>
+    <color name="纯白">#ffffff</color>
+    <color name="透明">#00000000</color>
+    <color name="金色">#b89766</color>
+    <color name="黑色">#000000</color>
+    <color name="红色">#681D21</color>
+    <color name="大红色">#ff0000</color>
+    <color name="绿色">#18B508</color>
+    <color name="蓝色">#036BC4</color>
+
+</resources>
