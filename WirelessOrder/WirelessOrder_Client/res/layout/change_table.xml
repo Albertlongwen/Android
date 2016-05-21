@@ -10,7 +10,7 @@
 		<TableRow>
 			<TextView 
 			android:text="订单编号：" 
-			android:id="@+id/TextView"
+			android:id="@+id/TextView"  //？？？？？？？？
 			android:layout_width="wrap_content" 
 			android:layout_height="wrap_content"
 			/>
@@ -25,7 +25,7 @@
 		<TableRow>
 			<TextView 
 			android:text="更换桌号：" 
-			android:id="@+id/TextView"
+			android:id="@+id/TextView"  //这个ID和上面的一样啊？
 			android:layout_width="wrap_content" 
 			android:layout_height="wrap_content"
 			/>
